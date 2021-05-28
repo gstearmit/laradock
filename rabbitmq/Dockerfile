@@ -1,4 +1,4 @@
-FROM rabbitmq
+FROM rabbitmq:3
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 
