@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.13
 
 MAINTAINER Eric Pfeiffer <computerfr33k@users.noreply.github.com>
 
